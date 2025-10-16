@@ -1,0 +1,5 @@
+﻿# Sample App
+
+Routes:
+- /
+- /about
